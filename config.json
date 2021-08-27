@@ -1,0 +1,12 @@
+{
+	"siteConfig": "http://ezariel.eu/api/launcherConfig.php",
+	"fallbackVideo": "https://www.w3schools.com/howto/rain.mp4",
+	"fallbackAudio": "",
+	"loginApi": "http://ezariel.eu/api/auth/authenticate",
+	"skinApi": "http://ezariel.eu/api/skins/",
+	"serverIp": "ezariel.eu",
+	"serverPort": 25565,
+	"distroList": "",
+	"siteName": "Ezariel",
+	"newsApi": ""
+}
