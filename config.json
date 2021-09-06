@@ -1,12 +1,12 @@
 {
-	"siteConfig": "http://ezariel.eu/api/launcherConfig.php",
+	"siteConfig": "https://ezariel.eu/api/launcherConfig.php",
 	"fallbackVideo": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_1280_10MG.mp4",
 	"fallbackAudio": "",
-	"loginApi": "http://ezariel.eu/api/auth/authenticate",
-	"skinApi": "http://ezariel.eu/api/skins/",
+	"loginApi": "https://ezariel.eu/api/auth/authenticate/",
+	"skinApi": "https://ezariel.eu/api/skins/",
 	"serverIp": "ezariel.eu",
 	"serverPort": 25565,
 	"distroList": "",
 	"siteName": "Ezariel",
-	"newsApi": "http://ezariel.eu/api/posts"
+	"newsApi": "https://ezariel.eu/api/posts/"
 }
