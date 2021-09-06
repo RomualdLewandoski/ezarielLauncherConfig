@@ -1,6 +1,6 @@
 {
 	"siteConfig": "http://ezariel.eu/api/launcherConfig.php",
-	"fallbackVideo": "https://www.w3schools.com/howto/rain.mp4",
+	"fallbackVideo": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_1280_10MG.mp4",
 	"fallbackAudio": "",
 	"loginApi": "http://ezariel.eu/api/auth/authenticate",
 	"skinApi": "http://ezariel.eu/api/skins/",
